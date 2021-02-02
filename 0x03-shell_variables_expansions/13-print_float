@@ -1,0 +1,3 @@
+#!/bin/bash
+printf("%.03f es un float!\n",NUM)
+
